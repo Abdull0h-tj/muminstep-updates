@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "1.3",
+  "isForced": false,
+  "downloadUrl": "",
+  "dialog": {
+    "title": "Доступна новая версия!",
+    "subtitle": "Список изменений:",
+    "changelog": [
+      "Первый пункт изменений",
+      "Второй пункт изменений"
+    ]
+  }
+}
