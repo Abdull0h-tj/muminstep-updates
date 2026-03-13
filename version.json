@@ -1,14 +1,15 @@
 {
-  "versionCode": 1,
-  "versionName": "1.3",
+  "versionCode": 2,
+  "versionName": "1.3.2",
   "isForced": false,
-  "downloadUrl": "",
+  "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/raw/refs/heads/main/MuminStep_1.3.apk",
   "dialog": {
     "title": "Доступна новая версия!",
     "subtitle": "Список изменений:",
     "changelog": [
-      "Первый пункт изменений",
-      "Второй пункт изменений"
+      "Добавлена система обновлений",
+      "Улучшена производительность",
+      "Исправлены мелкие ошибки"
     ]
   }
 }
