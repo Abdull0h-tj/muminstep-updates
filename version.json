@@ -18,7 +18,8 @@
       "Обновлена логика вибраций: Теперь вибрации работают независимо от разрешений устройства, из-за которых отсутствовали тактильные ощущения при использовании.",
       "Исправлена навигация приложения: Была исправлена некорректная навигация в разделах Поиск Киблы, Намазы и Азкары. Теперь всё работает плавнее и быстрее!",
       "Оптимизация кэшей: Обновлена логика кэширования приложения. Теперь приложение не засоряет память устройства и не тормозит работу приложения.",
-      "Исправлены уведомления: Логика уведомлений обновлена. Теперь все уведомления приходят вовремя. Вам нужно лишь предоставить новое разрешение - 'Точные будильники'."
+      "Исправлены уведомления: Логика уведомлений обновлена. Теперь все уведомления приходят вовремя. Вам нужно лишь предоставить новое разрешение - 'Точные будильники'.",
+      ""
     ],
     "changelog_en": [
       "An update system has been added: Now you can receive and download updates directly in the app!",
@@ -28,7 +29,8 @@
       "The vibration logic has been updated: Vibrations now work independently of the device's resolutions, which caused tactile sensations to be absent during use.",
       "App navigation has been fixed: Incorrect navigation in the Qibla Search, Prayer Times and Azkar sections has been fixed. Now everything works smoother and faster!",
       "Cache optimization: The application caching logic has been updated. Now the application does not clog up the device's memory and does not slow down the application.",
-      "Fixed notifications: The notification logic has been updated. Now all notifications arrive on time. You only need to provide new permission - 'Accurate Alarms'."
+      "Fixed notifications: The notification logic has been updated. Now all notifications arrive on time. You only need to provide new permission - 'Accurate Alarms'.",
+      ""
     ],
     "changelog_tg": [
       "Системаи навсозӣ илова карда шуд: Акнун шумо метавонед навсозиҳоро бевосита дар барнома гиред ва зеркашӣ кунед!",
@@ -38,7 +40,8 @@
       "Мантиқи ларзиш нав карда шуд: Ҳоло ларзишҳо новобаста аз қатъномаҳои дастгоҳ кор мекунанд, ки ҳангоми истифода эҳсоси ҳаптикӣ надоштанд.",
       "Навигатсияи барнома ислоҳ карда шуд: Навигатсияи нодуруст дар бахшҳои Ҷустуҷӯи Қибла, Намоз ва Азкар ислоҳ карда шуданд. Ҳоло ҳама чиз ҳамвортар ва тезтар кор мекунад!",
       "Оптимизатсияи кэш: Мантиқи кэшкунии барнома нав карда шуд. Ҳоло барнома хотираи дастгоҳро пур намекунад ва кори барномаро суст намекунад.",
-      "Огоҳиномаҳо ислоҳ карда шуданд: Мантиқи огоҳинома нав карда шуд. Ҳоло ҳама огоҳиномаҳо сари вақт меоянд. Шумо танҳо бояд иҷозатномаи нави - 'Ҳушдорҳои дақиқ' -ро қабул кунед."
+      "Огоҳиномаҳо ислоҳ карда шуданд: Мантиқи огоҳинома нав карда шуд. Ҳоло ҳама огоҳиномаҳо сари вақт меоянд. Шумо танҳо бояд иҷозатномаи нави - 'Ҳушдорҳои дақиқ' -ро қабул кунед.",
+      ""
     ]
   }
 }
