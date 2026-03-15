@@ -4,18 +4,41 @@
   "isForced": false,
   "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.3.2/MuminStep_1.3.2.apk",
   "dialog": {
-    "title": "Доступна новая версия!",
-    "subtitle": "Список изменений:",
-    "changelog": [
+    "title_ru": "Доступна новая версия!",
+    "title_en": "New version available!",
+    "title_tg": "Версияи нав дастрас аст!",
+    "subtitle_ru": "Список изменений:",
+    "subtitle_en": "Changelog:",
+    "subtitle_tg": "Рӯйхати тағйирот:",
+    "changelog_ru": [
       "Добавлена система обновлений",
       "Улучшена производительность",
-      "Редезайн календаря",
+      "Редизайн календаря",
       "Улучшена логика вибраций",
       "Исправлена навигация приложения",
-      "Оптимизация кэшов",
+      "Оптимизация кэшей",
       "Исправлены уведомления",
-      "Теперь пользоваться приложением стало приятнее",
-      "Ну и в принципе всё..."
+      "Пользоваться приложением стало приятнее"
+    ],
+    "changelog_en": [
+      "Added update system",
+      "Performance improvements",
+      "Calendar redesign",
+      "Improved vibration logic",
+      "Fixed app navigation",
+      "Cache optimization",
+      "Fixed notifications",
+      "Overall experience improvements"
+    ],
+    "changelog_tg": [
+      "Системаи навсозӣ илова шуд",
+      "Иҷрои барнома беҳтар шуд",
+      "Тақвим аз нав тарҳрезӣ шуд",
+      "Мантиқи ларзиш беҳтар шуд",
+      "Навигатсияи барнома ислоҳ шуд",
+      "Кэшҳо оптимизатсия шуданд",
+      "Огоҳиҳо ислоҳ шуданд",
+      "Истифодаи барнома хушоянд шуд"
     ]
   }
 }
