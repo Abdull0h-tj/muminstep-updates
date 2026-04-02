@@ -30,7 +30,7 @@
       "[c=#007a76]**1. Edits**[/c]", 
       "Several bugs have been fixed:", 
       "**   1.** Fixed a bug and support for [c=#005b58]**edge-to-edge**[/c] markup, which could cause application crashes.😔",
-      "**   2.** The logic of displaying the selection of the found input results in [c=#005b58] has been updated**In the search.**[/c] The search has become easier.😊",
+      "**   2.** The logic of displaying the selection of the found input results in [c=#005b58] has been updated **In the search.**[/c] The search has become easier.😊",
       "**   3.** Menu. Edits were made to the height of the application menu, because of which, in devices with push-button navigation, the menu [c=#005b58]*flew away*[/c] to where it is not clear...😅",
       "[c=#007a76]**2. Unification**[/c]", 
       "All the markup of the application, dimensions and effects were brought into a single common image. Now it's a treat for the eyes.😁",
