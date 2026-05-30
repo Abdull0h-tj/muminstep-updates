@@ -1,7 +1,7 @@
 {
   "versionCode": 8,
   "versionName": "1.5.4",
-  "isForced": true,
+  "isForced": false,
   "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.5.4/MuminStep_1.5.4.apk",
   "dialog": {
     "title_ru": "Обновление",
