@@ -11,40 +11,40 @@
     "subtitle_en": "List of changes:",
     "subtitle_tg": "Рӯйхати тағйирот:",
     "changelog_ru": [
-      "[c=#007a76]**1. Правки**[/c]", 
+      "[c=primary]**1. Правки**[/c]",
       "**   1.** Исправление уведомлений. Решена проблема с задержками и дублями уведомлений.",
-      "**   2.** Убраны лишние палитры из экрана [c=#005b58]**Персонализация**[/c].",
-      "[c=#007a76]**2. Нововведения**[/c]", 
-      "**   1.** Теперь в экране [c=#005b58]**Календарь**[/c], внизу отдельно отображается дата.",
+      "**   2.** Убраны лишние палитры из экрана [c=accentGold]**Персонализация**[/c].",
+      "[c=primary]**2. Нововведения**[/c]",
+      "**   1.** Теперь в экране [c=accentGold]**Календарь**[/c], внизу отдельно отображается дата.",
       "**   2.** Виджеты применяют цвета выбранной палитры приложения.",
       "",
-      "И еще дополнительные малые визуальные правки в приложении. Ценители заметят)",
+      "И еще дополнительные малые визуальные правки в приложении. *Ценители заметят)*",
       "",
-      "Команда [c=#007a76]**MuminStep**[/c]. Спасибо что вы с нами🤍"
+      "Команда [c=primary]__**MuminStep**__[/c]. Спасибо что вы с нами🤍"
     ],
     "changelog_en": [
-      "[c=#007a76]**1. Edits**[/c]", 
+      "[c=primary]**1. Edits**[/c]",
       "**   1.** Correction of notifications. The issue with delays and duplicate notifications has been resolved.",
-      "**   2.** Removed unnecessary palettes from the screen [c=#005b58]**Personalization**[/c].",
-      "[c=#007a76]**2. New features**[/c]", 
-      "**   1.** Now in the screen [c=#005b58]**Calendar**[/c], the date is displayed separately at the bottom.",
+      "**   2.** Removed unnecessary palettes from the [c=accentGold]**Personalization**[/c] screen.",
+      "[c=primary]**2. New features**[/c]",
+      "**   1.** Now on the [c=accentGold]**Calendar**[/c] screen, the date is displayed separately at the bottom.",
       "**   2.** Widgets apply the colors of the selected palette of the application.",
       "",
-      "And additional minor visual edits in the app. Connoisseurs will notice)",
+      "And additional minor visual edits in the app. *Connoisseurs will notice)*",
       "",
-      "The command [c=#007a76]**MuminStep**[/c]. Thank you for being with us🤍"
+      "The [c=primary]__**MuminStep**__[/c] team. Thank you for being with us🤍"
     ],
     "changelog_tg": [
-      "[c=#007a76]**1. Таҳрирҳо**[/c]", 
+      "[c=primary]**1. Таҳрирҳо**[/c]",
       "**   1.** Ислоҳи огоҳиномаҳо. Масъалаи таъхирҳо ва огоҳиномаҳо ҳал карда шуд.",
-      "**   2.** Палитраҳои зиедатӣ аз экрани [c=#005b58]**Шахсисозӣ**[/c] хориҷ карда шуданд.",
-      "[c=#007a76]**2. Навовариҳо**[/c]", 
-      "**   1.** Акнун дар экрани [c=#005b58]**Тақвим**[/c], дар поён санаи алоҳида нишон дода мешавад.",
+      "**   2.** Палитраҳои зиёдатӣ аз экрани [c=accentGold]**Шахсисозӣ**[/c] хориҷ карда шуданд.",
+      "[c=primary]**2. Навовариҳо**[/c]",
+      "**   1.** Акнун дар экрани [c=accentGold]**Тақвим**[/c], дар поён санаи алоҳида нишон дода мешавад.",
       "**   2.** Виджетҳо рангҳои палитраи интихобшудаи барномаро истифода мебаранд.",
       "",
-      "Таҳрирҳои иловагии визуалии хурд дар барнома. Донишмандон пай мебаранд)",
+      "Таҳрирҳои иловагии визуалии хурд дар барнома. *Донишмандон пай мебаранд)*",
       "",
-      "Дастаи [c=#007a76]**MuminStep**[/c]. Ташаккур барои бо мо будан🤍"
+      "Дастаи [c=primary]__**MuminStep**__[/c]. Ташаккур барои бо мо будан🤍"
     ]
   }
 }
