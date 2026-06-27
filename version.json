@@ -1,8 +1,8 @@
 {
   "versionCode": 9,
-  "versionName": "1.6",
+  "versionName": "1.6.2",
   "isForced": false,
-  "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.6/MuminStep_1.6.apk",
+  "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.6.2/MuminStep_1.6.2.apk",
   "dialog": {
     "title_ru": "Крупное обновление",
     "title_en": "Big update",
@@ -21,8 +21,6 @@
       "**   2.** Новый раздел [c=#BD971C]**Коран**[/c]",
       "**   3.** Кастомные ботом шиты",
       "",
-      "И еще много новых возможностей и изменений. Скоро будет маленькая фикс обновление...",
-      "",
       "[c=#D32F2F]**Важно:**[/c] Перед установкой обновления, советуем сначала пройтись по приложению, чтобы детально заметить все изменения. Разработчик старался)",
       "",
       "Команда [c=#00897B]**MuminStep**[/c]. Спасибо что вы с нами🤍"
@@ -38,8 +36,6 @@
       "**   2.** New section [c=#BD971C]**Quran**[/c]",
       "**   3.** Custom bottom sheets",
       "",
-      "And many more new features and changes. There will be a small fix update soon...",
-      "",
       "[c=#D32F2F]**Important:**[/c] Before installing the update, we recommend that you first go through the application to notice all the changes in detail. The developer tried his best)",
       "",
       "The [c=#00897B]**MuminStep**[/c] team. Thank you for being with us🤍"
@@ -54,8 +50,6 @@
       "**   1.** Бахши нав [c=#00897b]**Назоратчии намоз**[/c]",
       "**   2.** Бахши нав [c=#BD971C]**Қуръон**[/c]",
       "**   3.** Шитҳои фармоишӣ",
-      "",
-      "Ва боз бисер имкониятҳо ва тағиротҳои нав. Ба қарибӣ каме хоҳад буд ислоҳ навсозӣ...",
       "",
       "[c=#D32F2F]**Муҳим:**[/c] Пеш аз насб кардани навсозӣ, маслиҳат ин аст, ки аввал аз барнома гузаред, то ҳамаи тағиротҳоро ба таври муфассал пай баред. Барномасоз кӯшиш кард)",
       "",
