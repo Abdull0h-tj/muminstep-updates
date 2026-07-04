@@ -33,7 +33,7 @@
       "**   4.** Performance improvement and data optimization",
       "[c=primary]**2. New features**[/c]",
       "**   1.** Now you can download data in [c=primary]**background**[/c]. Now the download of components does not stop in any case)",
-      "**   2.** [c=primary]**The speed is **[/s]. The download speed of the components has been accelerated significantly. Now the whole process takes less time)",
+      "**   2.** [c=primary]**Speed**[/s]. The download speed of the components has been accelerated significantly. Now the whole process takes less time)",
       "**   3.** [c=primary]**Cleaning**[/c]. We have implemented a cleaning service in the application that will monitor and clean up all unnecessary garbage from downloads...",
       "",
       "[c=red]**Important:**[/c] If the background download does not work, we recommend that you remove the Power Control restrictions in the system settings of the application!",
