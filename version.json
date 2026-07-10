@@ -1,8 +1,8 @@
 {
   "versionCode": 11,
-  "versionName": "1.6.3",
+  "versionName": "1.6.5",
   "isForced": true,
-  "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.6.3/MuminStep_1.6.3.apk",
+  "downloadUrl": "https://github.com/Abdull0h-tj/muminstep-updates/releases/download/v1.6.5/MuminStep_1.6.5.apk",
   "dialog": {
     "title_ru": "Фикс обновление",
     "title_en": "Fix update",
@@ -13,8 +13,8 @@
     "changelog_ru": [
       "[c=primary]**1. Правки**[/c]",
       "**   1.** Исправление логики скачивания",
-      "**   2.** Обновлена иконка приложения",
-      "**   3.** Убран лишний мусор, который засорял размер и вес приложения",
+      "**   2.** Обновление экспорта и импорта данных",
+      "**   3.** Исправлены уведомления. Теперь они срабатывают, даже после обновлений и в заблокированном экране",
       "**   4.** Повышение производительности и оптимизация данных",
       "[c=primary]**2. Нововведения**[/c]",
       "**   1.** Теперь можно скачивать данные в [c=primary]**фоне**[/c]. Теперь скачивание компонентов не обрывается ни в коем случае)",
@@ -28,8 +28,8 @@
     "changelog_en": [
       "[c=primary]**1. Edits**[/c]",
       "**   1.** Correcting the download logic",
-      "**   2.** The app icon has been updated",
-      "**   3.** Removed excess debris that clogged the size and weight of the app",
+      "**   2.** Updating data export and import",
+      "**   3.** Fixed notifications. Now they are triggered, even after updates and in the locked screen",
       "**   4.** Performance improvement and data optimization",
       "[c=primary]**2. New features**[/c]",
       "**   1.** Now you can download data in [c=primary]**background**[/c]. Now the download of components does not stop in any case)",
@@ -43,8 +43,8 @@
     "changelog_tg": [
       "[c=primary]**1. Таҳрирҳо**[/c]",
       "**   1.** Ислоҳи мантиқи зеркашӣ",
-      "**   2.** Тасвири барнома навсозӣ шудааст",
-      "**   3.** Партовҳои зиедатӣ, ки андоза ва вазни барномаро банд карданд, тоза карда шуданд",
+      "**   2.** Навсозии содирот ва воридоти маълумот",
+      "**   3.** Огоҳиномаҳо ислоҳ карда шуданд. Ҳоло онҳо ҳатто пас аз навсозӣ ва дар экрани қулфшуда фаъол мешаванд",
       "**   4.** Баланд бардоштани ҳосилнокӣ ва оптимизатсияи маълумот",
       "[c=primary]**2. Навовариҳо**[/c]",
       "**   1.** Акнун шумо метавонед маълумотро дар [c=primary]**замина**[/c] зеркашӣ кунед. Ҳоло зеркашии ҷузъҳо ба ҳеҷ ваҷҳ қатъ намешавад)",
